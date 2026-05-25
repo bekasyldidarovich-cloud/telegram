@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "449479071328",
+    "project_id": "telegramm-334af",
+    "storage_bucket": "telegramm-334af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449479071328:android:7d94ff89873f8ddc931505",
+        "android_client_info": {
+          "package_name": "telegram.clone.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449479071328-cd4r9b1cc0bemb4ese28ujrk7j2g2qrf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "telegram.clone.app",
+            "certificate_hash": "cf08e72084b186b1991dc46d5d684a447c250c64"
+          }
+        },
+        {
+          "client_id": "449479071328-bjia0nhi1mru58jpt43kf2aq0jcunbcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRclL4PaRqQ06Jc20ycqnt5vf-XPk43Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449479071328-bjia0nhi1mru58jpt43kf2aq0jcunbcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
